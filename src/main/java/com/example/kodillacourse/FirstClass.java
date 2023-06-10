@@ -10,6 +10,7 @@ public class FirstClass {
         OrderNumberSet.add("OR-123");
         OrderNumberSet.add("OR-221");
         OrderNumberSet.add("OR-122");
+        OrderNumberSet.add("OR-122");
 
         for (String OrderNumber : OrderNumberSet) {
             System.out.println("Order number: " + OrderNumber);
